@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * Ejercicio.
+ * Depende de : genealogy.php
+ *              member.php
+ */
 //Incluimos requeridos
 include_once("genealogy.php");
 include_once("member.php");
